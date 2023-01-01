@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "185874634808",
+    "project_id": "newsbuddy-4ec56",
+    "storage_bucket": "newsbuddy-4ec56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185874634808:android:d54b8fa18110fc1915aecd",
+        "android_client_info": {
+          "package_name": "com.example.newsBuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185874634808-ifobdjvd91uldsi5ue7riss19ppre7t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdEESHr58VJj5qNt-ZQ3navqN6lAZ6Agg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185874634808-ifobdjvd91uldsi5ue7riss19ppre7t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185874634808:android:c5949e62e681ad2e15aecd",
+        "android_client_info": {
+          "package_name": "com.example.news_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185874634808-ifobdjvd91uldsi5ue7riss19ppre7t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdEESHr58VJj5qNt-ZQ3navqN6lAZ6Agg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185874634808-ifobdjvd91uldsi5ue7riss19ppre7t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "news_buddy",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../covid_19/assets"
+		}
+	],
+	"settings": {}
+}
